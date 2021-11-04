@@ -3,7 +3,6 @@
 int main(){
     int num1;
     int num2;
-    printf("enter 2 positive numbers: ");
     scanf("%d %d", &num1, &num2);
     int max;
     int min;
